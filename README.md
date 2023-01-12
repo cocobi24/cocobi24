@@ -36,8 +36,6 @@
 <br>
 <div align="center">
 
-![HoJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocobi24&show_icons=true&theme=dracula)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cocobi24)](https://solved.ac/cocobi24)<br/>
 
 </div>
