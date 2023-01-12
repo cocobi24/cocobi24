@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20HoJin&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Wellcome&fontSize=80&animation=fadeIn&fontAlignY=33&desc=I'm%20HoJin&descAlignY=51&descAlign=62)
 
 <br>
 <p align="center">
