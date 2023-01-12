@@ -36,6 +36,6 @@
 <br>
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cocobi24)](https://solved.ac/cocobi24)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cocobi24)](https://solved.ac/cocobi24)<br/>
 
 </div>
