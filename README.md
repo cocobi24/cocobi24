@@ -24,9 +24,4 @@
     <img src="https://img.shields.io/badge/TypeScript-254485?style=flat&logo=TypeScript&logoColor=white"/>
 </p>
 <br>
-<div>
-
- ![github stats](https://github-readme-stats.vercel.app/api?username=cocobi24)
-
-
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cocobi24&theme=react"/>
