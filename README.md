@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Svelte-FF7B00?style=flat&logo=Svelte&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass-D482BD?style=flat&logo=Sass&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Styled components-F1A1A0?style=flat&logo=Styled-components&logoColor=white"/>
 </p>
 <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
