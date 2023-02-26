@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/TypeScript-254485?style=flat&logo=TypeScript&logoColor=white"/>
 </p>
 <p display="inline-block">
-    <img src="https://img.shields.io/badge/Vue-68DA97?style=flat&logo=V&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Svelte-FF7B00?style=flat&logo=Svelte&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass-D482BD?style=flat&logo=Sass&logoColor=white"/>
